@@ -1,0 +1,13 @@
+{
+  "orderId": "736394e1-d3e1-4ba5-8f1b-20ae5b64d86a",
+  "userId": "7535dee4-3943-4937-92f1-dacb0842910a",
+  "itemImage": "http://localhost:5000/assets/fallback-images/2..jpg",
+  "shipping": {
+    "name": "sarabjeet singh",
+    "address": "kaushik enclave burari, shankarpura",
+    "phone": "07988897080"
+  },
+  "price": 500,
+  "status": "PENDING_PAYMENT",
+  "createdAt": "2025-12-19T02:53:25.556Z"
+}

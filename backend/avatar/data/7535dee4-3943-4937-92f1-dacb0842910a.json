@@ -1,0 +1,20 @@
+{
+  "measurements": {
+    "height": "175",
+    "weight": "120",
+    "chest": "45",
+    "waist": "55.9",
+    "hips": "45",
+    "shoulders": "55.9",
+    "armLength": "23",
+    "legLength": "12"
+  },
+  "status": "PHOTOS_UPLOADED",
+  "updatedAt": "2025-12-27T11:10:52.178Z",
+  "photos": {
+    "front": "/avatar/photos/7535dee4-3943-4937-92f1-dacb0842910a/front.jpg",
+    "side": "/avatar/photos/7535dee4-3943-4937-92f1-dacb0842910a/side.jpg"
+  },
+  "preview_url": "/avatar/photos/7535dee4-3943-4937-92f1-dacb0842910a/front.jpg",
+  "avatarURL": "/avatar/generated/fallback-avatar.glb"
+}

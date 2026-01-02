@@ -1,0 +1,116 @@
+[
+  {
+    "_id": "1765934964692",
+    "prompt": "metallic party dress with a causal vibe",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/1.jpg",
+    "createdAt": "2025-12-17T01:29:24.692Z"
+  },
+  {
+    "_id": "1765935129124",
+    "prompt": "wedding outift with a bright look",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-17T01:32:09.124Z"
+  },
+  {
+    "_id": "1765936097841",
+    "prompt": "wedding lehenga with a bright and comfy look",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-17T01:48:17.841Z"
+  },
+  {
+    "_id": "1765936237707",
+    "prompt": "metallic dress with a futuristic vibe",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/1.jpg",
+    "createdAt": "2025-12-17T01:50:37.707Z"
+  },
+  {
+    "_id": "1766053079166",
+    "prompt": "wedding outfits ",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-18T10:17:59.166Z"
+  },
+  {
+    "_id": "1766112759469",
+    "prompt": "metallic party dress with futuristic vibe ",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-19T02:52:39.469Z"
+  },
+  {
+    "_id": "1766198262130",
+    "prompt": "metallic party dress of skirt and accessories",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/3.jpg",
+    "createdAt": "2025-12-20T02:37:42.130Z"
+  },
+  {
+    "_id": "1766198459980",
+    "prompt": "mettalic party dress ",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/3.jpg",
+    "createdAt": "2025-12-20T02:40:59.980Z"
+  },
+  {
+    "_id": "1766257001488",
+    "prompt": "metallic party dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/3.jpg",
+    "createdAt": "2025-12-20T18:56:41.488Z"
+  },
+  {
+    "_id": "1766257103132",
+    "prompt": "metallic party dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/1.jpg",
+    "createdAt": "2025-12-20T18:58:23.132Z"
+  },
+  {
+    "_id": "1766286772128",
+    "prompt": "metallic party dress with a casual vibe",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-21T03:12:52.128Z"
+  },
+  {
+    "_id": "1766287061484",
+    "prompt": "metallic party dress with a casual vibe",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-21T03:17:41.484Z"
+  },
+  {
+    "_id": "1766287904899",
+    "prompt": "metalic dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-21T03:31:44.899Z"
+  },
+  {
+    "_id": "1766289210989",
+    "prompt": "metallic dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/1.jpg",
+    "createdAt": "2025-12-21T03:53:30.989Z"
+  },
+  {
+    "_id": "1766290562111",
+    "prompt": "metallic dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/2..jpg",
+    "createdAt": "2025-12-21T04:16:02.111Z"
+  },
+  {
+    "_id": "1766291177733",
+    "prompt": "party dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/3.jpg",
+    "createdAt": "2025-12-21T04:26:17.733Z"
+  },
+  {
+    "_id": "1766339176611",
+    "prompt": "metallic party dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/3.jpg",
+    "createdAt": "2025-12-21T17:46:16.611Z"
+  },
+  {
+    "_id": "1766341395874",
+    "prompt": "weeding outifts",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/3.jpg",
+    "createdAt": "2025-12-21T18:23:15.874Z"
+  },
+  {
+    "_id": "1766342328567",
+    "prompt": "metallic dress",
+    "imageUrl": "http://localhost:5000/assets/fallback-images/1.jpg",
+    "createdAt": "2025-12-21T18:38:48.567Z"
+  }
+]
